@@ -1,52 +1,193 @@
-# Shreyash Kashyap Portfolio
+Shreyash Kashyap — Portfolio
 
-somethi ng cool with color combin ations go witn dral mode still have farutrew of three options light dark and light out means greyish tone 1. i choose all mix up yet look clean
+«A modern, interactive portfolio showcasing my work, technical skills, projects, and journey as a Computer Science & Engineering (Data Science) graduate.»
 
-all - hero intro bhai tu kuch tagfa usa llevel ka lik tohra creative hona chgaioye ekdam hi englkiosh tohra professional ke sath reading me padhne me maza aaye reader mtlb hai with yiu can take my abiut -> About Hi, I'm Shreyash—a CSE (Data Science) graduate skilled in Python and MySQL. I build practical AI-driven applications and scalable software systems. Open to full-time Software Developer opportunities. ye wala mera li kedin ka about hai isme tu kuch add wagera karke kudh se bhi ooptimised likh skte ho
+🌐 Live Portfolio
 
-Skills - python , mysql projects - 1.Projects Notes Web App HTML, CSS, JavaScript A responsive web app where users can create, update, delete, and search notes. Features include real-time search filtering, persistent localStorage saving, modern UI, and fully responsive design. GitHub: github.com/Shreyash-Kashyap/NOTES-APP
+"View Portfolio" (https://shreyashkashyap.lovable.app)
 
-2.Resume Analyzer (CLI Tool) Python Command-line tool to extract contact info, identify key sections, scan important keywords, and calculate keyword density to improve ATS score. GitHub: github.com/Shreyash-Kashyap
+---
 
-3.Major Project: AI-Powered E-Commerce Website MERN Stack Built a full-stack AI-enhanced e-commerce platform with Google Auth, Razorpay payments, Admin dashboard (orders/users/proAI recommendations, and responsive UI. Tech Stack: MongoDB, Express.js, React.js, Node.js, Firebase
+👋 About Me
 
-Tech stack preference?
+Hi, I'm Shreyash Kashyap, a Computer Science & Engineering (Data Science) graduate with a strong interest in software development, AI-driven applications, and building products that solve practical problems.
 
-React (modern, component-based)
+I enjoy turning ideas into functional, user-focused applications — from responsive web experiences to AI-powered systems. My current technical focus includes Python, MySQL, JavaScript, React, and full-stack development.
 
-Ya main suggest karun jo best and tagda portfolio ban ade woh kr apna bbhi idea lena kaise buikld krega tu
+I'm actively looking for full-time Software Developer opportunities where I can learn, contribute, and build meaningful software.
 
-Deployment kahan?
+---
 
-Vercel (recommended, free + fast)
+✨ Portfolio Highlights
 
-vercel pe kar ,mere pas account hai vercel
+- Modern and responsive portfolio design
+- Interactive UI with smooth animations
+- Dark, light, and neutral visual themes
+- Clean typography and accessible layouts
+- Responsive across desktop, tablet, and mobile devices
+- Dedicated project showcase
+- Skills and technology overview
+- Resume and professional profile
+- Simple navigation with a focus on user experience
 
-me tujhe apna photopgraph or resume bhi de rha tu exatrcxt the infromatioon tere upaerr question jo reh gya ho website ekdam hio fascibation cool with animation hona chaoye
+---
 
-website bug free or clean fonmt style ekdam readblle hona chaiye
+🛠️ Tech Stack
 
-figam, design jo used krna hai - https://www.figma.com/community/file/1329012896288066125/2024-portfoliosui eaxact sab coppy paste ye bas protypr hai ya context dioye hai design kaise krna hai chal staet kar jaha stuck ho u can aSK ME QUESTION BEFOREE DOING IT KUCH COMPLIOCATE YA MSDITAKLE M,AT KRNA SAB AACHE KRO
+Languages & Core Technologies
 
-This project was built with [Lovable](https://lovable.dev).
+- Python
+- JavaScript
+- HTML5
+- CSS3
+- MySQL
 
-**Live app**: https://shreyashkashyap.lovable.app
+Frontend
 
-## Build with Lovable
+- React.js
+- Responsive Web Design
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/8c72963c-430f-43b8-ada1-fb242ec64e99).
+Full-Stack & Other Technologies
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+- Node.js
+- Express.js
+- MongoDB
+- Firebase
+- Razorpay
 
-## Development
+Tools & Platforms
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+- Git
+- GitHub
+- Vercel
 
-```sh
-git clone <this-repository-url>
+---
+
+🚀 Featured Projects
+
+1. Notes Web App
+
+HTML · CSS · JavaScript
+
+A responsive notes application designed for quickly creating and managing personal notes.
+
+Features:
+
+- Create, update, and delete notes
+- Real-time search and filtering
+- Persistent data using browser "localStorage"
+- Responsive interface
+- Clean and intuitive UI
+
+Source Code:
+"GitHub — NOTES-APP" (https://github.com/Shreyash-Kashyap/NOTES-APP)
+
+---
+
+2. Resume Analyzer — CLI Tool
+
+Python
+
+A command-line tool designed to analyze resumes and provide useful insights for improving ATS compatibility.
+
+Features:
+
+- Extracts contact information
+- Identifies important resume sections
+- Scans for relevant keywords
+- Calculates keyword density
+- Helps identify areas that can be improved for ATS optimization
+
+Source Code:
+"GitHub Profile" (https://github.com/Shreyash-Kashyap)
+
+---
+
+3. AI-Powered E-Commerce Website
+
+MERN Stack · Firebase · AI
+
+A full-stack e-commerce platform enhanced with AI-powered features and designed around a complete online shopping workflow.
+
+Key Features:
+
+- Google authentication
+- Razorpay payment integration
+- Admin dashboard
+- Order and user management
+- AI-powered product recommendations
+- Responsive user interface
+
+Technology Stack:
+
+"MongoDB" · "Express.js" · "React.js" · "Node.js" · "Firebase" · "Razorpay"
+
+---
+
+🎨 Design & Experience
+
+The portfolio follows a modern product-focused design approach with an emphasis on:
+
+- Visual hierarchy
+- Readability
+- Consistent spacing
+- Smooth interactions
+- Responsive layouts
+- Minimal but expressive UI
+- Theme-based visual customization
+
+The design direction was inspired by contemporary portfolio and product UI patterns, with additional customization to create a personal visual identity.
+
+---
+
+📱 Responsive Design
+
+The portfolio is designed to provide a consistent experience across:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile
+
+The interface adapts its layout, typography, spacing, and interactive elements according to the screen size.
+
+---
+
+⚡ Getting Started
+
+To run the project locally:
+
+git clone <your-repository-url>
 cd <repository-name>
-npm i
+npm install
 npm run dev
-```
+
+The development server will then provide a local URL where the portfolio can be viewed.
+
+---
+
+☁️ Deployment
+
+The portfolio is deployed using Vercel for fast and reliable web hosting.
+
+The project can be connected to the GitHub repository so that updates can be deployed automatically.
+
+---
+
+👨‍💻 Author
+
+Shreyash Kashyap
+
+Computer Science & Engineering (Data Science) Graduate
+Software Development · Python · React · Full-Stack Development
+
+GitHub:
+https://github.com/Shreyash-Kashyap
+
+---
+
+📄 License
+
+This project is intended as a personal portfolio and showcase of my work.
+
+© 2026 Shreyash Kashyap
