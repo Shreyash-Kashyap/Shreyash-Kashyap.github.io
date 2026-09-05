@@ -1,6 +1,5 @@
 import { ArrowDownRight, ArrowUpRight, FileDown, Mail } from "lucide-react";
 import { motion } from "motion/react";
-import resume from "@/assets/resume.pdf.asset.json";
 import { PROFILE, STATS, MARQUEE } from "./data";
 
 export function Hero() {
@@ -56,7 +55,7 @@ export function Hero() {
               <ArrowDownRight className="size-4 transition-transform group-hover:translate-y-0.5" />
             </a>
             <a
-              href={resume.url}
+              href="/SHREYASH%20KASHYAP%20RESUME.pdf"
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center gap-2 rounded-full border border-border bg-card/60 px-5 py-3 text-sm font-semibold backdrop-blur transition-colors hover:bg-accent"
